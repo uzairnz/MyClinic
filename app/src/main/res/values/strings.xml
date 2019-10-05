@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyClinic</string>
+    <string name="privacyterms">Privacy &amp; Terms</string>
+    <string name="createAccount">Create Account</string>
+    <string name="title_activity_patients">patientsActivity</string>
+    <string name="navigation_drawer_open">Open Navigation</string>
+    <string name="navigation_drawer_close">Close Navigation</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="set_schedule">Set Schedule</string>
+</resources>
