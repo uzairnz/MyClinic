@@ -1,0 +1,2 @@
+# Ignore Google Firebase Auth File
+/app/*google-services.json
